@@ -2,4 +2,4 @@
 simple x86 assembly low level
 
 
-First time ever with x86 asm
+First and last time with inline assembly, fucc dat shiieett
